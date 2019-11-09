@@ -108,3 +108,6 @@ background-color: #444;
          url('fonts/Shabnam-Medium.ttf') format('truetype');
     font-weight: 500;
   }
+  body{
+    font-family: Shabnam;
+  }
